@@ -6,6 +6,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://mr-dot.tistory.com/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tjdwlslrj@gmail.com)
 
+
 ### Who is
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
@@ -14,6 +15,22 @@
 - 🐱‍💻 Innovation Academy 42Seoul - La Piscine (2020.07 ~ 2021.01)
 - 💶 SK Infosec Cloud Security Convergence Expert Training Course (2021.03 ~ 2021.08)
 - 🐱‍🏍 SAMSUNG SW Academy For Youth - SSAFY (2022.01 ~ )
+
+
+### 2020 Goals
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
+
+- Algorithm
+  - 💯 [BOJ] Solve **1000 questions**!  
+  - 🎓 [BOJ] Make **Platinum Tear**..
+  - ⁉ [LeetCode] Start to solve **questions by C++**!!
+- Certificate
+  - AWS SAA-C02
+  - AWS DBS-C01
+  - AZ-104
+  - DB-900
+  - CKA (Certified Kubernetes Administrator)
 
 
 ### Tech Stack
@@ -25,7 +42,6 @@
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white) &nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)  
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
 
 ### Studying Stack
 
