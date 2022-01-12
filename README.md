@@ -19,17 +19,18 @@
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) &nbsp;
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-FFAD00?style=flat-square&logo=MySQL&logoColor=black) &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white)  
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white) &nbsp;
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
 
 ### Studying Stack
 
 ![C++](https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c%2B%2B&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) &nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
