@@ -19,18 +19,20 @@
 
 ### 2020 Goals
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
 
 - Algorithm
   - 💯 [BOJ] Solve **1000 questions**!  
   - 🎓 [BOJ] Make **Platinum Tear**..
   - ⁉ [LeetCode] Start to solve **questions by C++**!!
+  - 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
+
 - Certificate
-  - AWS SAA-C02
-  - AWS DBS-C01
-  - AZ-104
-  - DB-900
-  - CKA (Certified Kubernetes Administrator)
+  - AWS SAA-C02  
+  - AWS DBS-C01  
+  - AZ-104  
+  - DB-900  
+  - CKA (Certified Kubernetes Administrator)  
 
 
 ### Tech Stack
