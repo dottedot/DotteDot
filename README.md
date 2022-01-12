@@ -20,7 +20,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-FFAD00?style=flat-square&logo=MySQL&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-FFAD00?style=flat-square&logo=MySQL&logoColor=black) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
