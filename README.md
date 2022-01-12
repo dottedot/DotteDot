@@ -18,7 +18,7 @@
 - 🐱‍🏍 SAMSUNG SW Academy For Youth - SSAFY (2022.01 ~ )
 
 
-### 2020 Goals
+### 2022 Goals
 
 
 - Algorithm
