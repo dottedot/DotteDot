@@ -24,7 +24,7 @@
   - 💯 [BOJ] Solve **1000 questions**!  
   - 🎓 [BOJ] Make **Platinum Tear**..
   - ⁉ [LeetCode] Start to solve **questions by C++**!!
-  - 
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
 
 - Certificate
