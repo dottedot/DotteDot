@@ -23,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white)  
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white) &nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)  
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
 
