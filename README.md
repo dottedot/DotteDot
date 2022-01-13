@@ -26,7 +26,7 @@
   - 🎓 [BOJ] Make **Platinum Tear**..
   - ⁉ [LeetCode] Start to solve **questions by C++**!!
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjdwlslrj" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dottedot" height="165">
 
 - Certificate
   - AWS SAA-C02  
