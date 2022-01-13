@@ -12,7 +12,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwlslrj">
 
 - 🔒 Ajou University, Cyber Security (2015.03 ~ 2021.08)
-- 🏤 Ajou University, BIT Lab. Undergraduate Researcher (2019.05 ~ 2020.12)  
+- 🏤 Ajou University, [BIT Lab](https://bitlab.ajou.ac.kr/). Undergraduate Researcher (2019.05 ~ 2020.12)  
 - 🐱‍💻 Innovation Academy 42Seoul - La Piscine (2020.07 ~ 2021.01)
 - 💶 SK Infosec Cloud Security Convergence Expert Training Course (2021.03 ~ 2021.08)
 - 🐱‍🏍 SAMSUNG SW Academy For Youth - SSAFY (2022.01 ~ )
